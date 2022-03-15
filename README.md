@@ -1,8 +1,11 @@
 # hashy0917
+<p align="left"> 
+  <a href="http://twitter.com/hashy0917">
+    <img height="20" src="https://img.shields.io/twitter/follow/hashy0917?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 ## Link
-[![Twitter Badge](https://img.shields.io/badge/-@hashy0917-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hashy0917)](https://twitter.com/hashy0917)
-
 [Blog](https://hashy0917.wordpress.com/)
 []()
 
