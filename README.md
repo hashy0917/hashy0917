@@ -1,10 +1,4 @@
 # hashy0917
-<p align="left"> 
-  <a href="http://twitter.com/hashy0917">
-    <img height="20" src="https://img.shields.io/twitter/follow/hashy0917?label=Twitter&logo=twitter&style=flat" />
-  </a>
-</p>
-
 ## Link
 [Blog](https://hashy0917.wordpress.com/)
 []()
